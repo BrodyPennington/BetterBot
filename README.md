@@ -4,5 +4,6 @@ A Discord Bot that can handle an array of tasks for your Discord server. Integra
 
 ## Packages needed:
 
-pip install discord.py \n
+pip install discord.py
+
 pip install requests
